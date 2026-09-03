@@ -1,4 +1,4 @@
 interface:
   display_name: "Seedance TVC 导演"
-  short_description: "生成可配置时长、声音与分镜模式的 Seedance 2.5 TVC"
-  default_prompt: "使用 $seedance-tvc-director，为这份产品 brief 配置时长、声音和直出或九宫格模式，并生成可复制的 TVC 提示词。"
+  short_description: "生成可选模型、段数、节奏与镜头密度的 TVC 提示词"
+  default_prompt: "使用 $seedance-tvc-director，为这份产品 brief 分别配置时长、声音、直出或九宫格、视频模型、生成段数及节奏与镜头密度，并生成可复制的 TVC 提示词。"
